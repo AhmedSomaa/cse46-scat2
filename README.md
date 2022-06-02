@@ -1,2 +1,2 @@
 # Sports Concussion Assessment System
-This is the implemtation for the CSE 460 Project 2
+Implemtation for the CSE 460 Unit 2 Project
