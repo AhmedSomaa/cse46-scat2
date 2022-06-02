@@ -1,1 +1,2 @@
-# cse460-scat2
+# Sports Concussion Assessment System
+This is the implemtation for the CSE 460 Project 2
